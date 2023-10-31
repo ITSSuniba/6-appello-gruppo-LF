@@ -1,0 +1,4 @@
+--patch-module
+com.example.integrazione=_
+--add-reads
+com.example.integrazione=ALL-UNNAMED
